@@ -1,2 +1,2 @@
 # nikul-demo
-Author - Nikul Padhiyar
+Author - Nikul Vindobhai Padhiyar
